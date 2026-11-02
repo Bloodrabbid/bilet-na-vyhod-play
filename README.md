@@ -4,6 +4,8 @@
 
 Играть: https://bloodrabbid.github.io/bilet-na-vyhod-play/
 
+Классическая версия без мата и чёрного юмора (1.07): https://bloodrabbid.github.io/bilet-na-vyhod-play/classic/
+
 Здесь только собранная игра. Исходники лежат в приватном репозитории bilet-na-vyhod.
 
 Картинки билетов взяты из экзаменационных билетов ГИБДД (копии с drom.ru). Голоса озвучены Gemini TTS.
