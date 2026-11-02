@@ -2,7 +2,7 @@
 
 Игра-тренажёр ПДД: билеты темы 1 «Общие положения» как живые сцены. Стоп-кадр, ракурсы, последствия ошибок, разбор Палыча, экзамен главы по правилам ГИБДД.
 
-Играть: https://bloodrabbid.github.io/bilet-na-vyhod-play/
+Играть (18+: крепкие слова под символами, чёрный юмор): https://bloodrabbid.github.io/bilet-na-vyhod-play/
 
 Классическая версия без мата и чёрного юмора (1.07): https://bloodrabbid.github.io/bilet-na-vyhod-play/classic/
 
